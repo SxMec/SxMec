@@ -6,10 +6,8 @@
 <img align="right" width=300px height=300px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNxbmV3cWpvcTc5aHZ4NWlpNXl4Y2VzenVmbDQyZWwyNm84N2NwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a4A2UjzWqhX8c/giphy.gif" />
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sao-hu%E1%BB%B3nh/) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2312B425.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/saohuynh223)
-[![itch.io](https://img.shields.io/badge/itch.io-%233DA5B8.svg?logo=itch.io&logoColor=white)](https://sxingzz.itch.io)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@sxingzz99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sxmec/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@SxMec)
 
 <!-- ### Ẩn (commented out)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/HuangQXingzz)
