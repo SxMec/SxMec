@@ -3,7 +3,7 @@
 🤝 Eager to learn and improve in areas like control systems, AI integration, and embedded systems.  
 💬 Happy to discuss topics like mechatronics, industrial automation, and emerging trends in engineering.  
 ⚡ Fun fact: I enjoy turning ideas into reality through code and experimenting with new technologies in robotics!
-<img align="right" width=300px height=300px alt="side_sticker" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd3Z3AyZWY3cGI1dm1iNjNpYzAxYm5hejczMzU3NG5lbWVhang2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdv1GbekAakxXO8g/giphy.gif" />
+<img align="right" width=300px height=300px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNxbmV3cWpvcTc5aHZ4NWlpNXl4Y2VzenVmbDQyZWwyNm84N2NwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a4A2UjzWqhX8c/giphy.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sao-hu%E1%BB%B3nh/) 
@@ -45,7 +45,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SxMec&layout=donut&theme=dark&hide=false" />
     </td>
     <td style="padding: 0; width: auto;">
-      <img alt="gif" align="right" src="Github/Assets/block.gif" />
+      <img alt="gif" align="right" src="Github/Assets/1.gif" />
     </td>
   </tr>
 </table>
