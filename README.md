@@ -3,7 +3,7 @@
 🤝 Eager to learn and improve in areas like control systems, AI integration, and embedded systems.  
 💬 Happy to discuss topics like mechatronics, industrial automation, and emerging trends in engineering.  
 ⚡ Fun fact: I enjoy turning ideas into reality through code and experimenting with new technologies in robotics!
-<img align="right" width=300px height=300px alt="side_sticker" src="https://giphy.com/gifs/3oEdv1GbekAakxXO8g" />
+<img align="right" width=300px height=300px alt="side_sticker" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd3Z3AyZWY3cGI1dm1iNjNpYzAxYm5hejczMzU3NG5lbWVhang2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdv1GbekAakxXO8g/giphy.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sao-hu%E1%BB%B3nh/) 
