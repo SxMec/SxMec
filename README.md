@@ -25,16 +25,16 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white) 
 ![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
-![Navisworks](https://img.shields.io/badge/Navisworks-%230095D2.svg?style=for-the-badge&logo=autodesk&logoColor=white)  
-![Inventor](https://img.shields.io/badge/Inventor-%23F77F00.svg?style=for-the-badge&logo=autodesk&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white) 
+![Navisworks](https://img.shields.io/badge/Navisworks-%230095D2.svg?style=for-the-badge&logo=autodesk&logoColor=white) 
+![Inventor](https://img.shields.io/badge/Inventor-%23F77F00.svg?style=for-the-badge&logo=autodesk&logoColor=white) 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23FCA121.svg?style=for-the-badge&logo=autodesk&logoColor=white) 
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-%23FFDD00.svg?style=for-the-badge&logo=ni&logoColor=black) 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 # 📊 GitHub Stats:
 <table style="width: 100%; table-layout: auto;">
