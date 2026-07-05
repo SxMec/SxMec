@@ -1,11 +1,11 @@
-# 💫 Hi there 👋 I'm Aster Huynh. 
-⚙️ Piping Engineer with a background in Mechatronics Engineering.
-🏭 I design piping systems, develop engineering documentation, and work with industrial plant projects.
-💻 Passionate about engineering software, CAD automation, AI, and building tools that simplify engineering workflows.
-🚀 Currently exploring Plant 3D customization, Navisworks, Python, C#, and engineering automation.
-🤝 Open to collaborating on engineering software, automation, CAD tools, and industrial digitalization.
-💬 Ask me about Piping Engineering, AutoCAD Plant 3D, Navisworks, Mechanical Design, Automation, Robotics, and Programming.
-⚡ I believe great engineering comes from combining practical experience with continuous learning and innovation.
+# 💫 Hi there 👋 I'm Aster Huynh. <br>
+⚙️ Piping Engineer with a background in Mechatronics Engineering. <br>
+🏭 I design piping systems, develop engineering documentation, and work with industrial plant projects. <br>
+💻 Passionate about engineering software, CAD automation, AI, and building tools that simplify engineering workflows. <br>
+🚀 Currently exploring Plant 3D customization, Navisworks, Python, C#, and engineering automation. <br>
+🤝 Open to collaborating on engineering software, automation, CAD tools, and industrial digitalization. <br>
+💬 Ask me about Piping Engineering, AutoCAD Plant 3D, Navisworks, Mechanical Design, Automation, Robotics, and Programming. <br>
+⚡ I believe great engineering comes from combining practical experience with continuous learning and innovation. <br>
 
 <img align="right" width=300px height=300px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNxbmV3cWpvcTc5aHZ4NWlpNXl4Y2VzenVmbDQyZWwyNm84N2NwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a4A2UjzWqhX8c/giphy.gif" />
 
