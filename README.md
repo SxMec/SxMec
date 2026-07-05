@@ -1,8 +1,12 @@
-# 💫 Hi there 👋 I’m SxMec, ⚙️🚀 Mechatronics Engineer!
-👯 Open to collaboration on projects that explore innovative robotics and automation solutions.  
-🤝 Eager to learn and improve in areas like control systems, AI integration, and embedded systems.  
-💬 Happy to discuss topics like mechatronics, industrial automation, and emerging trends in engineering.  
-⚡ Fun fact: I enjoy turning ideas into reality through code and experimenting with new technologies in robotics!
+# 💫 Hi there 👋 I'm Aster Huynh. 
+⚙️ Piping Engineer with a background in Mechatronics Engineering.
+🏭 I design piping systems, develop engineering documentation, and work with industrial plant projects.
+💻 Passionate about engineering software, CAD automation, AI, and building tools that simplify engineering workflows.
+🚀 Currently exploring Plant 3D customization, Navisworks, Python, C#, and engineering automation.
+🤝 Open to collaborating on engineering software, automation, CAD tools, and industrial digitalization.
+💬 Ask me about Piping Engineering, AutoCAD Plant 3D, Navisworks, Mechanical Design, Automation, Robotics, and Programming.
+⚡ I believe great engineering comes from combining practical experience with continuous learning and innovation.
+
 <img align="right" width=300px height=300px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNxbmV3cWpvcTc5aHZ4NWlpNXl4Y2VzenVmbDQyZWwyNm84N2NwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a4A2UjzWqhX8c/giphy.gif" />
 
 ## 🌐 Socials:
@@ -21,11 +25,11 @@
 # ⚙️ Tech Stack:
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E34F26.svg?style=for-the-badge&logo=autodesk&logoColor=white) 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white) 
-![Siemens PLC](https://img.shields.io/badge/Siemens%20PLC-%230078D7.svg?style=for-the-badge&logo=siemens&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white) 
-![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white) 
+![AutoCAD Plant 3D](https://img.shields.io/badge/AutoCAD%20Plant%203D-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![CAESAR II](https://img.shields.io/badge/CAESAR%20II-%230071C5.svg?style=for-the-badge&logo=hexagon&logoColor=white)
+![AutoPIPE](https://img.shields.io/badge/AutoPIPE-%23004B87.svg?style=for-the-badge&logo=bentley&logoColor=white)
+![Revit](https://img.shields.io/badge/Revit-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Navisworks](https://img.shields.io/badge/Navisworks-%230095D2.svg?style=for-the-badge&logo=autodesk&logoColor=white) 
 ![Inventor](https://img.shields.io/badge/Inventor-%23F77F00.svg?style=for-the-badge&logo=autodesk&logoColor=white) 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23FCA121.svg?style=for-the-badge&logo=autodesk&logoColor=white) 
