@@ -40,7 +40,7 @@
 <table style="width: 100%; table-layout: auto;">
   <tr>
     <td width="50%" style="padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=SxMec&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats-nine-tau-16.vercel.app/api?username=SxMec&show_icons=true&theme=dark&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SxMec&layout=compact&theme=dark&hide_border=true" />
     </td>
     <td style="padding: 0; width: auto;">
